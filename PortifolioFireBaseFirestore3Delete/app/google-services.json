@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985680742663",
+    "project_id": "portifoliofirebasefirestore",
+    "storage_bucket": "portifoliofirebasefirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985680742663:android:5e9aa938e1ecccda9b5da2",
+        "android_client_info": {
+          "package_name": "com.marco.portifoliofirebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985680742663-71i4vr64eiouo9pum3krip2f3k90gla1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfJV7LfL5VOvDx58DCONuEu0r5d3-5RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985680742663-71i4vr64eiouo9pum3krip2f3k90gla1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
